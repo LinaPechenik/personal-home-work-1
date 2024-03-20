@@ -1,0 +1,49 @@
+/* скидання дефолтних стилей */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+address {
+  font-style: normal;
+}
+
+/* BASE STYLES */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #ffffff;
+    letter-spacing: 0.02em;
+}
+
+/* HEADER */
+
+/* SECTION HERO */
+
+/* SECTION BENEFITS */
+
+/* SECTION OUR TEAM */
+
+/* SECTION PORTFOLIO */
+
+/* FOOTER */
